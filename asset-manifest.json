@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/static/js/main.895a0d74.js",
-    "index.html": "/index.html",
-    "main.895a0d74.js.map": "/static/js/main.895a0d74.js.map"
+    "main.js": "/Telegrum-clone/static/js/main.3faee280.js",
+    "index.html": "/Telegrum-clone/index.html",
+    "main.3faee280.js.map": "/Telegrum-clone/static/js/main.3faee280.js.map"
   },
   "entrypoints": [
-    "static/js/main.895a0d74.js"
+    "static/js/main.3faee280.js"
   ]
 }
